@@ -25,6 +25,10 @@ while (1){
 
 Access received data by
 ```
+export GNSS_t GNSS
+```
+then
+```
 GNSS.GNGGA.x
 ```
 
